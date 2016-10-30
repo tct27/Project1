@@ -1,5 +1,5 @@
 package PRACTICE1;
-//FIrst class
+//FIrst class112
 public class FIRST {
 
 	static int a;
